@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-labelledby="title desc">
+  <title id="title">BGrowl</title>
+  <desc id="desc">Building systems, from signals to software. SUSTech. Embedded, control, signal processing and automation.</desc>
+  <rect width="1000" height="250" rx="12" fill="#f2f5fa"/>
+  <path d="M700 0h300v250H700z" fill="#e7edf7"/>
+  <g fill="none" stroke="#2757a5" stroke-width="2">
+    <path d="M728 72h54l24 40h70l25 38h65"/>
+    <path d="M728 168h54l24-40h70l25-38h65"/>
+    <circle cx="728" cy="72" r="5" fill="#f2f5fa"/>
+    <circle cx="728" cy="168" r="5" fill="#f2f5fa"/>
+    <circle cx="966" cy="90" r="5" fill="#f2f5fa"/>
+    <circle cx="966" cy="150" r="5" fill="#f2f5fa"/>
+  </g>
+  <rect x="826" y="101" width="30" height="38" rx="4" fill="#cf562d"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" fill="#122947">
+    <text x="48" y="103" font-size="66" font-weight="750" letter-spacing="-2">BGrowl</text>
+    <text x="51" y="151" font-size="24" font-weight="550">Building systems, from signals to software.</text>
+    <text x="51" y="202" font-size="16" fill="#365579">SUSTech / Embedded / Control / Signal Processing / Automation</text>
+  </g>
+</svg>
